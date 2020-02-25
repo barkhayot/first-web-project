@@ -1,0 +1,61 @@
+body, h1, h3, h3, ul, p {
+    margin: 0;
+    padding: 0;
+    
+}
+#header{
+    background-color: #096f9c;
+    border-bottom: 5px solid white;
+    
+}
+#header .icon{
+    width: 26px;
+    padding-right: 10px;
+    margin-bottom: -2px
+    
+}
+#header h1{
+    color: #fff;
+    font-family: sans-serif;
+    margin: 20px 0;
+    display: inline-block;
+}
+#header .logo{
+    color: blanchedalmond;
+
+    
+}
+a{
+    text-decoration: none;
+}
+
+#header .nav{
+    display: inline-block;
+    font-family: sans-serif;
+    list-style: none;
+    float: right;
+    padding-top: 5px;
+    
+}
+
+#header .nav li{
+    display: inline;
+    float: left;
+    
+}
+
+#header ul li a{
+    display: inline-block;
+    padding: 24.5px 20px;
+    color: aliceblue;
+    font-size: 20px;
+     
+}
+#header ul li a:hover{
+    background-color: white;
+    color: #096f9c;
+    border-radius: 5px;
+}
+.container{
+    width: 70%;
+    margin: auto;
