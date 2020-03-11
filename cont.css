@@ -196,6 +196,90 @@ a{
     text-align: center;
     font-size: 15px
 }
+
+
+
+@media screen and (max-width: 1024px) {
+    .container h1{
+        font-size: 20px;
+    }
+    #header ul li a{
+        font-size: 15px;
+        padding: 10px
+        
+    }
+    
+    
+    #world h1{
+        font-size: 34px;
+    }
+
+
+    .info-content2 h2{
+        font-size: ;
+    
+        
+    }
+    .info-content2 p{
+        font-size: 18px
+    }
+    
+    .info-content h2{
+        font-size: 
+        
+    }
+    .info-content p{
+        font-size: 18px
+    }
+    info-content3 h2{
+        font-size: 22px;
+        
+    }
+    .info-content3 p{
+        font-size: 18px;
+    }
+    info-content4 h2{
+        font-size: 22px;
+        
+    }
+    .info-content4 p{
+        font-size: 18px;
+    }
+    #content .info-content4{
+        float: inherit;
+        flex-direction: column;
+        height: inherit;
+        width: 100%;
+    }
+    #content .info-content3{
+        float: inherit;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+    }
+    #content .info-content2{
+        float: inherit;
+        flex-direction: column;
+        height: inherit ;
+        width: 100%;
+    }
+    
+    #content .info-content{
+        float: inherit;
+        flex-direction: column;
+        height: inherit;
+        width: 100%;
+    }
+    #content{
+        height: 100%;
+    }
+    #footer .ver{
+        margin-top: 50px
+        
+    }
+    
+    
+}
     
     
     
