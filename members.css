@@ -157,20 +157,23 @@ a{
         font-size: 25px;
     }
     #header ul li a{
-        font-size: 13px;
+        font-size: 15px;
         padding: 24.5px 10px;
         
     }
+    #pop{
+        height: 600px;
+    }
         
     .container p{
-        font-size: 15px;
+        font-size: 18px;
     }
     #pop .connect h1{
         font-size: 30px;
         
     }
     #pop .connect p{
-        font-size: 16px;
+        font-size: 18px;
     }
 }
 
